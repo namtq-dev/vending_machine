@@ -1,0 +1,3 @@
+0 Beer 0
+1 Water 1
+2 Coffee 2
