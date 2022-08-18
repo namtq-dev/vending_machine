@@ -29,10 +29,7 @@ Phải mất 5s để chuẩn bị trước khi hàng hóa được giao.
 - Việc cung cấp hàng hóa được thể hiện bằng cách truyền dữ liệu trong chương trình.
 
 ----------Kiến thức áp dụng----------
-•	Hệ thống mạng máy tính
-•	Socket API
-•	Giao thức TCP
-• fork() server - multi thread - 
-
-
-
+- Hệ thống mạng máy tính
+- Socket API
+- Giao thức TCP
+- fork() server - multi thread - pipe 
